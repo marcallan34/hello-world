@@ -1,5 +1,4 @@
 # hello-world
 My first GitHub Repository
 
-Hubot Here. I like node.js and Coffescript (that's what i'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Beginner Developer looking to collaborate on basic javascript projects in order to enhance learning. I have a little experience with HTML and CSS and am learning Javascipt and wanting to expand on that.
